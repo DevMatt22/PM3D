@@ -1,0 +1,10 @@
+.vs/
+[Bb]in/
+[Dd]ebug/
+[Rr]eleases/
+x64/
+*.exe
+*.pdb
+*.iobj
+*.ilk
+*.ipdb
